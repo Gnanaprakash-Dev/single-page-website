@@ -74,6 +74,7 @@ ul li {
   margin: 0px 20px;
   border-radius: 70px;
   font-size: 14px;
+  font-family: "Philosopher", sans-serif;
 }
 .slide-heading button:nth-child(1) {
   background-color: #032da5;
@@ -1074,7 +1075,7 @@ p {
   color: rgb(0, 0, 97);
 }
 .popup {
-  display: block;
+  display: none;
 }
 .popup img {
   padding: 20px;
@@ -1273,6 +1274,12 @@ p {
   .popup {
     display: none;
   }
+  .mini-contact .col-md-4:nth-child(2) {
+    display: none;
+  }
+  .same .line {
+    line-height: 20px;
+  }
 }
 @media (min-width: 992px) {
   .container {
@@ -1406,6 +1413,9 @@ p {
     width: 300px;
     height: 300px;
   }
+  .mini-contact .col-md-4:nth-child(2) {
+    display: block;
+  }
 }
 @media (min-width: 1200px) {
   .container {
@@ -1446,7 +1456,7 @@ p {
     margin: 0px;
   }
   .same .line {
-    line-height: 21px;
+    line-height: 22px;
     margin-bottom: 15px;
     font-size: 16px;
   }

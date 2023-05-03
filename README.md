@@ -14,8 +14,8 @@ To view the website, simply open the `index.html` file in a web browser.
 
 ## Screenshots
 
-![Love Calculator Screenshot 1](https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/screen1.png)
-![Love Calculator Screenshot 2](https://raw.githubusercontent.com/Gnanaprakash-Dev/Love-Calculator/main/src/image/screen2.png)
+![Love Calculator Screenshot 1](https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen1.png)
+![Love Calculator Screenshot 2](https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen2.png)
 
 ## Feedback
 

@@ -12,7 +12,14 @@ To view the website, simply open the `index.html` file in a web browser.
 - Portfolio section that showcases my best work
 - Contact form that allows visitors to get in touch with me
 
+## Screenshots
 
+<table>
+  <tr>
+    <td><img alt="Love Calculator Screenshot 1" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen1.png"></td>
+    <td><img alt="Love Calculator Screenshot 2" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen2.png"></td>
+  </tr>
+</table>
 
 ## Feedback
 

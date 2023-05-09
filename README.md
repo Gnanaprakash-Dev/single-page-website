@@ -16,8 +16,8 @@ To view the website, simply open the `index.html` file in a web browser.
 
 <table>
   <tr>
-    <td><img alt="Love Calculator Screenshot 1" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen1.png"></td>
-    <td><img alt="Love Calculator Screenshot 2" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/single-page-website/main/image/screen2.png"></td>
+    <td><img alt="Dice game Screenshot 1" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Dice-Game/main/images/screenshort1.png"></td>
+    <td><img alt="Dice game Screenshot 2" src="https://raw.githubusercontent.com/Gnanaprakash-Dev/Dice-Game/main/images/screenshort2.png"></td>
   </tr>
 </table>
 
